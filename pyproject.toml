@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/peejaybee/aws-cred-parser"
-"Bug Tracker" = "https://github.com/peejaybee/aws-cred-parser/issues"
+"Homepage" = "https://github.com/peejaybee/aws_cred_parser"
+"Bug Tracker" = "https://github.com/peejaybee/aws_cred_parser/issues"
