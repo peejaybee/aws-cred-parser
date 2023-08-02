@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "AWS credential grabber for VS Code"
+version = "0.0.1"
+authors = [
+  { name="Phillip Birmingham", email="phillip.birmingham@fidelitylife.com" },
+]
+description = "A package to grab AWS credentials from env files in the format shown on the AWS SSO page"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: all rights reserved",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/pypa/sampleproject"
+"Bug Tracker" = "https://github.com/pypa/sampleproject/issues"
