@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "AWS credential grabber for VS Code"
+name = "aws_cred_parser"
 version = "0.0.1"
 authors = [
   { name="Phillip Birmingham", email="phillip.birmingham@fidelitylife.com" },
@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/pypa/sampleproject"
-"Bug Tracker" = "https://github.com/pypa/sampleproject/issues"
+"Homepage" = "https://github.com/peejaybee/aws-cred-parser"
+"Bug Tracker" = "https://github.com/peejaybee/aws-cred-parser/issues"
